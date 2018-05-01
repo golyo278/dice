@@ -1,0 +1,24 @@
+body {
+
+            padding: 5%; 
+            margin: auto 0;
+            font-family: "GT-Cinetype-Bold.woff";
+            font-size: 48px;
+            text-align: center;
+
+
+ }
+
+@font-face {
+  font-family: "GT-Cinetype-Bold.woff";
+  src: url("GT-Cinetype-Bold.woff") format("woff");
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+
+a:hover{
+	color:blue;
+}

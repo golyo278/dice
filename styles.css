@@ -1,0 +1,129 @@
+body {
+
+            padding: 0; 
+            margin: 0;
+            font-family: "GT-Cinetype-Bold.woff";
+            font-size: 26px;
+
+
+ }
+
+@font-face {
+  font-family: "GT-Cinetype-Bold.woff";
+  src: url("GT-Cinetype-Bold.woff") format("woff");
+}
+.span:hover {
+		color:blue;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
+.article1, .article2{
+	width:60%;
+	text-align: justify;
+	align-content: center;
+	margin: auto 0;
+	position: relative;
+    left: 20%;
+}
+
+h1, h2{
+
+	color:blue;
+}
+
+
+/* Dropdown Button */
+.dropbtn {
+    background-color: blue;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    font-family: "GT-Cinetype-Bold.woff"; 
+    width: 250%;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: fixed;
+    display: inline-block;
+    top:0px;
+
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: blue;
+    width: 250%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    font-size: 16px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: "GT-Cinetype-Bold.woff"; 
+
+
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: white; color: black;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: white; color: blue;
+}
+
+
+
+ .array-body {
+
+      margin: 0;
+      display: inline-block;
+      position: relative;
+      width: 25vw;
+      height: 10vw;
+      overflow: hidden;
+      text-align: center;
+      font-size: 4vw;
+	  padding-top: 1vw;
+	  overflow: hidden;
+	  line-height: 8vw;
+
+   }
+
+
+.array-body:hover{
+  color:white;
+	background-color: blue;
+
+}
+   /*.borders {
+
+      border-right: solid 1px black;
+      border-top: solid 1px black;
+      border-bottom: solid 1px black;
+   } */
+
+   .center {
+
+      text-align: center;
+
+   }
+
+ 
