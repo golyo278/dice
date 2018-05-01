@@ -22,3 +22,9 @@ a{
 a:hover{
 	color:blue;
 }
+
+#pp{
+  color:blue;
+  font-size: 60px;
+  margin:auto 0;
+}

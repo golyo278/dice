@@ -5,7 +5,7 @@
 //     document.getElementById('quote').innerHTML = myArray[rand];
 // }
 
-
+document.write('<div id="pp"> NEWS </div>');
 var myArray = ['Iran, Like Russia Before It, Tries to Block Telegram App<br> <a href="2.html"</a>',
 'Israel Says Secret Files Detail Irans Nuclear Subterfuge<br> <a href="3.html"</a>',
 'For Gaza Protester, Living or Dying Is the Same Thing<br> <a href="4.html"</a>',

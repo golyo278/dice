@@ -8,6 +8,10 @@ body {
 
  }
 
+#zz{
+  background-color: blue;
+  color:white;
+}
 @font-face {
   font-family: "GT-Cinetype-Bold.woff";
   src: url("GT-Cinetype-Bold.woff") format("woff");

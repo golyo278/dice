@@ -1,4 +1,5 @@
 var contents1 = new Array();
+  document.write('<div class="array-body borders" id="zz"> DICE</a> </div>');
     contents1[0] = '<div class="array-body borders" id="zero"> World <a href="1.html"</a> </div>';
     contents1[1] = '<div class="array-body borders" id="one"> U.S. <a href="1.html"</a> </div>';
     contents1[2] = '<div class="array-body borders" id="two"> Politics <a href="1.html"</a> </div>';
@@ -18,7 +19,7 @@ var contents1 = new Array();
     contents1[16] = '<div class="array-body borders" id="sixteen"> Video <a href="1.html"</a></div>';
     contents1[17] = '<div class="array-body borders" id="seventeen"> Real Estate <a href="1.html"</a></div>';
     contents1[18] = '<div class="array-body borders" id="eighteen"> Energy <a href="1.html"</a></div>';
-    contents1[19] = '<div class="array-body borders" id="nineteen"> Culture <a href="1.html"</a> </div>';
+    // contents1[19] = '<div class="array-body borders" id="nineteen"> Culture <a href="1.html"</a> </div>';
 
 
 
